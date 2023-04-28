@@ -1,1 +1,1 @@
-# python_template_project
+# python tutorial to read file and validate
